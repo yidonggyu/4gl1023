@@ -11,7 +11,7 @@
   </head>
   <body>
     <section class="container">
-      <header>Registration Porm</header>
+      <header>Registration Form</header>
       <form action="#" class="form">
         <div class="input-box">
           <label>Full Name</label>
@@ -19,7 +19,7 @@
         </div>
 
         <div class="input-box">
-          <label>Gmail Address</label>
+          <label>Outlook Address</label>
           <input type="text" placeholder="Enter email address" required />
         </div>
 
