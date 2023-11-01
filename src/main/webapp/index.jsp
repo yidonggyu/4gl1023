@@ -19,7 +19,7 @@
         </div>
 
         <div class="input-box">
-          <label>Outlook Address</label>
+          <label>Hanmail Address</label>
           <input type="text" placeholder="Enter email address" required />
         </div>
 
